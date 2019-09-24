@@ -1,2 +1,2 @@
-# TRiangles_python_lib
+# Triangles_python_lib
 Python Library to do operation on triangles
