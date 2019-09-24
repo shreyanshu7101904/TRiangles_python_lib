@@ -1,8 +1,4 @@
 
-# import sys
-# sys.path.append("/home/shreyanshu/Videos/Triangles_python_lib/")
-import os
-print(os.getcwd())
 from triangle_exceptions import *
 
 
@@ -19,7 +15,4 @@ class Triangle:
             raise NotProvidedSidesOrAnglesError
 
 
-if __name__ == "__main__":
-    ob = Triangle(sides=[1,10,12])
 
-    pass
